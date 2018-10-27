@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(195, 216, 228);
+  background-image: url('https://ak4.picdn.net/shutterstock/videos/1109974/thumb/8.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-between;
+  overflow: auto;
+  padding-bottom: 20px;
+}
